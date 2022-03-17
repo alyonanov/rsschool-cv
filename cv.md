@@ -1,19 +1,22 @@
 # NOVIKOVA ALYONA
 ------------------
-- Alyona Novikova (@alyonanov) (discord)
-- +375(44) 539 93 40 
-- ms_unix (tg)
-- we.jpig (instagram)
+- **discord:** Alyona Novikova (@alyonanov)
+- **cell phone:** +375(44) 539 93 40 
+- **telegram:** ms_unix
+- **instagram:** we.jpig
 ------------------
-## I learn quickly and grasp everything on the fly
+## **Skills:**
+## * C 
+## * C++
+## * also took a short course in JS on WAYUP
+## * English level B1/B2
 
-## I have no work experience, but I do laboratory work on order and I am eager to learn new things
+## **Education:**
+## * 2nd year student of *BSUIR*
 
-### Studied languages **C**, **C++**, also took a short course in **JS**
+### I learn quickly and grasp everything on the fly
 
-### 2nd year student of *BSUIR*, course on WAYUP
-
-### English level **B1/B2**
+### I have no work experience, but I do laboratory work on order and I am eager to learn new things
 
 ------------------
 
