@@ -1,0 +1,55 @@
+html
+{
+    font-family: Roboto, sans-serif;
+
+}
+*{
+    color:black;
+
+}
+.header {
+    display:flex;
+    background:rgb(238, 158, 129);
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    font-size:x-large;
+}
+.info {
+    display:flex;
+    height: 300px;
+    flex-direction: row;
+}
+.short{
+    display:flex;
+    background:rgb(238, 221, 200);
+    width: 30%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.name{
+    display: flex;
+    font-size: large;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+.photo{
+    display: flex;
+    padding-top: 5px;
+}
+.full {
+    display:flex;
+    font-size:larger;
+    background:rgb(238, 236, 234);
+    width: 70%;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.footer {
+    display:flex;
+    background:rgb(238, 158, 129);
+    height: 50px;
+    justify-content: center;
+}
