@@ -17,7 +17,7 @@ html
 }
 .info {
     display:flex;
-    height: 300px;
+    height: 340px;
     flex-direction: row;
 }
 .short{
@@ -38,6 +38,17 @@ html
 .photo{
     display: flex;
     padding-top: 5px;
+    margin-bottom: 10px;
+}
+.contacts {
+    display: flex;
+    flex-direction: column;
+}
+.contact{
+    display: flex;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    margin-left: -40px;
 }
 .full {
     display:flex;
