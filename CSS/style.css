@@ -1,19 +1,20 @@
 html
 {
-    font-family: Roboto, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 *{
-    color:black;
+    color:rgb(110, 66, 16);
 
 }
 .header {
     display:flex;
     background:rgb(238, 158, 129);
-    height: 80px;
+    height: 65px;
     justify-content: center;
     align-items: center;
     font-size:x-large;
+    font-weight: bold;
 }
 .info {
     display:flex;
@@ -30,10 +31,10 @@ html
 
 .name{
     display: flex;
-    font-size: large;
+    font-size: larger;
     margin-top: 15px;
     margin-bottom: 5px;
-    
+    text-transform: uppercase;
 }
 .photo{
     display: flex;
@@ -43,12 +44,13 @@ html
 .contacts {
     display: flex;
     flex-direction: column;
+    width: 180px;
+
 }
 .contact{
     display: flex;
     margin-top: 7px;
     margin-bottom: 5px;
-    margin-left: -40px;
 }
 .full {
     display:flex;
@@ -58,9 +60,20 @@ html
     padding-top: 10px;
     padding-left: 20px;
 }
+ul {
+    list-style: disc;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+ol {
+    line-height: 1.5;
+}
 .footer {
     display:flex;
     background:rgb(238, 158, 129);
     height: 50px;
     justify-content: center;
+}
+a{
+    color:darkblue;
 }
