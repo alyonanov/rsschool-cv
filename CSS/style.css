@@ -15,10 +15,11 @@ html
     align-items: center;
     font-size:x-large;
     font-weight: bold;
+    border: 2px solid#3b1905;
 }
 .info {
     display:flex;
-    height: 340px;
+    height: 430px;
     flex-direction: row;
 }
 .short{
@@ -27,6 +28,7 @@ html
     width: 30%;
     align-items: center;
     flex-direction: column;
+    border-right: 1px solid#3b1905;
 }
 
 .name{
@@ -35,6 +37,7 @@ html
     margin-top: 15px;
     margin-bottom: 5px;
     text-transform: uppercase;
+    font-weight: bolder;
 }
 .photo{
     display: flex;
@@ -62,7 +65,7 @@ html
 }
 ul {
     list-style: disc;
-    padding-top: 5px;
+    padding-top: 10px;
     padding-bottom: 10px;
 }
 ol {
@@ -70,10 +73,24 @@ ol {
 }
 .footer {
     display:flex;
+    color:#3b1905;
     background:rgb(238, 158, 129);
     height: 50px;
     justify-content: center;
+    border: 2px solid#3b1905;
 }
 a{
     color:darkblue;
+    padding-left: 5px;
+}
+i{
+    padding-right: 5px;
+}
+.line{
+    border-bottom: 1px solid#3b1905;
+    margin-bottom: 7px;
+}
+.contact_header{
+    font-size: larger;
+    margin-bottom: 7px;
 }
