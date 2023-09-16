@@ -1,0 +1,96 @@
+html
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+*{
+    color:rgb(110, 66, 16);
+
+}
+.header {
+    display:flex;
+    background:rgb(238, 158, 129);
+    height: 65px;
+    justify-content: center;
+    align-items: center;
+    font-size:x-large;
+    font-weight: bold;
+    border: 2px solid#3b1905;
+}
+.info {
+    display:flex;
+    height: 430px;
+    flex-direction: row;
+}
+.short{
+    display:flex;
+    background:rgb(238, 221, 200);
+    width: 30%;
+    align-items: center;
+    flex-direction: column;
+    border-right: 1px solid#3b1905;
+}
+
+.name{
+    display: flex;
+    font-size: larger;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.photo{
+    display: flex;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+.contacts {
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+
+}
+.contact{
+    display: flex;
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+.full {
+    display:flex;
+    font-size:larger;
+    background:rgb(238, 236, 234);
+    width: 70%;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+ul {
+    list-style: disc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ol {
+    line-height: 1.5;
+}
+.footer {
+    display:flex;
+    color:#3b1905;
+    background:rgb(238, 158, 129);
+    height: 50px;
+    justify-content: center;
+    border: 2px solid#3b1905;
+}
+a{
+    color:darkblue;
+    padding-left: 5px;
+}
+i{
+    padding-right: 5px;
+}
+.line{
+    border-bottom: 1px solid#3b1905;
+    margin-bottom: 7px;
+}
+.contact_header{
+    font-size: larger;
+    margin-bottom: 7px;
+}
