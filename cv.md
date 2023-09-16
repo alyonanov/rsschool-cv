@@ -4,10 +4,12 @@
 - **cell phone:** +375(44) 539 93 40 
 - **telegram:** ms_unix
 - **instagram:** we.jpig
+- **vk:** 1234567
 ------------------
 ## **Skills:**
 ## * C 
 ## * C++
+## * Java
 ## * also took a short course in JS on WAYUP
 ## * English level B1/B2
 
